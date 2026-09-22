@@ -1,78 +1,90 @@
-# Black Friday Sales Analysis
+# 📊 Black Friday Sales Analysis
 
-## 📊 Project Overview
+## Project Overview
 
-This project is an end-to-end **Data Analytics Capstone Project** based on Black Friday sales data.
+This is an end-to-end **Data Analytics Capstone Project** based on Black Friday sales data.
 
-The objective was to analyze customer purchasing behavior, identify sales patterns, and generate meaningful business insights using multiple data analytics tools.
+The project focuses on analyzing customer purchasing behavior, sales patterns, and product performance to generate meaningful business insights.
 
-I achieved **86/100 (86%)** in the capstone project.
+🏆 **Capstone Score: 86/100 (86%)**
 
 ## 🎯 Project Objectives
 
-- Understand customer purchasing behavior
-- Analyze sales and product patterns
-- Clean and validate the dataset
-- Perform exploratory data analysis
-- Use statistical analysis to test business questions
+- Clean and validate the sales dataset
+- Analyze the data using SQL
+- Perform Exploratory Data Analysis (EDA) using Python
+- Apply statistical and hypothesis testing
 - Build an interactive Power BI dashboard
-- Generate actionable business insights
+- Identify meaningful business insights
+- Present findings in a business-friendly format
 
 ## 🛠️ Tools & Technologies
 
-- **Excel** – Data cleaning and validation
-- **SQL** – Data querying and analysis
-- **Python** – Data analysis and EDA
-- **Pandas & NumPy** – Data manipulation
-- **Matplotlib & Seaborn** – Data visualization
-- **Statistics** – Hypothesis testing
-- **Power BI** – Interactive dashboard and visualization
+- Excel
+- SQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Statistics
+- Power BI
 
 ## 🔄 Project Workflow
 
-**Raw Data → Excel → SQL → Python EDA → Statistical Analysis → Power BI → Business Insights**
+**Data → Excel → SQL → Python/EDA → Statistical Analysis → Power BI → Business Insights**
 
 ### 1. Excel
-- Validated the dataset
-- Checked data quality
-- Performed initial data cleaning and preparation
+- Data validation
+- Data cleaning
+- Initial data preparation
 
 ### 2. SQL
-- Queried the sales dataset
-- Performed aggregations and filtering
-- Analyzed customer and product-related patterns
+- Data querying
+- Filtering and aggregation
+- Customer and sales analysis
 
 ### 3. Python
-- Imported and prepared the dataset
-- Performed Exploratory Data Analysis (EDA)
-- Used Pandas and NumPy for data manipulation
-- Created visualizations using Matplotlib and Seaborn
+- Data preparation
+- Exploratory Data Analysis
+- Pandas and NumPy for data manipulation
+- Data visualization using Matplotlib and Seaborn
 
 ### 4. Statistical Analysis
-- Formulated business-related hypotheses
+- Formulated analytical questions
 - Performed hypothesis testing
-- Interpreted the statistical results
+- Interpreted statistical results
 
 ### 5. Power BI
 - Created an interactive dashboard
-- Visualized important sales and customer patterns
-- Presented insights in a business-friendly format
+- Visualized important sales patterns
+- Presented analytical findings
 
-## 📈 Key Learning Outcomes
+## 📁 Project Files
 
-Through this project, I gained practical experience in:
+| File | Description |
+|---|---|
+| `Black_Friday_sql_python_pipeline.ipynb` | Python EDA, analysis and statistical work |
+| `SQL PDF QUERY.pdf` | SQL queries used for project analysis |
+| `black friday sale bi.pbix` | Power BI interactive dashboard |
+| `README.md` | Project documentation |
 
-- Data cleaning and validation
-- SQL-based data analysis
-- Python-based EDA
-- Statistical and hypothesis testing
-- Data visualization
-- Power BI dashboard development
-- Converting analytical findings into business insights
+## 📈 Key Skills Demonstrated
 
-## 🏆 Project Achievement
+- Data Cleaning
+- Exploratory Data Analysis
+- SQL Analysis
+- Python Data Analysis
+- Statistical Analysis
+- Data Visualization
+- Power BI Dashboard Development
+- Business Insights
 
-**Capstone Score: 86/100 (86%)**
+## 🏆 Achievement
+
+**Score: 86/100 (86%)**
+
+Successfully completed the Black Friday Sales Analysis Capstone Project.
 
 ## 👨‍💻 Author
 
