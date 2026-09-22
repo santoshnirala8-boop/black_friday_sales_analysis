@@ -60,6 +60,12 @@ The project focuses on analyzing customer purchasing behavior, sales patterns, a
 - Visualized important sales patterns
 - Presented analytical findings
 
+### 6. Project analysis report ppt
+ - Executive summary and key finding
+ - Perfromance snapshot
+ - Key Insight and Strategic Recommendation
+  
+
 ## 📁 Project Files
 
 | File | Description |
@@ -68,6 +74,7 @@ The project focuses on analyzing customer purchasing behavior, sales patterns, a
 | `SQL PDF QUERY.pdf` | SQL queries used for project analysis |
 | `black friday sale bi.pbix` | Power BI interactive dashboard |
 | `README.md` | Project documentation |
+| `Black Friday Sales Analysis Report.pptx` | Project analysis, findings, insights and recommendations |
 
 ## 📈 Key Skills Demonstrated
 
